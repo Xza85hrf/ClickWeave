@@ -1,12 +1,12 @@
-# TaskBot
+# ClickWeave
 
-# TaskBot
+# ClickWeave
 
-TaskBot is a task automation tool built using Python and tkinter. It provides a graphical user interface (GUI) for scripting and executing automated actions such as mouse clicks, keystrokes, and more.
+ClickWeave is a task automation tool built using Python and tkinter. It provides a graphical user interface (GUI) for scripting and executing automated actions such as mouse clicks, keystrokes, and more.
 
 ## Features
 
-**TaskBot**:
+**ClickWeave**:
 - Load and execute actions from a JSON file.
 - Basic GUI for action management.
 - Execute automated tasks like mouse clicks, keyboard actions, etc.
@@ -22,8 +22,8 @@ TaskBot is a task automation tool built using Python and tkinter. It provides a 
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Xza85hrf/TaskBot.git
-cd TaskBot
+git clone https://github.com/Xza85hrf/ClickWeave.git
+cd ClickWeave
 
 ```
 Install the required dependencies:
@@ -34,10 +34,10 @@ pip install -r requirements.txt
 Usage
 Navigate to the main directory and run the main script:
 
-For TaskBot:
+For ClickWeave:
 ```bash
-cd TaskBot
-python TaskBot.py
+cd ClickWeave
+python ClickWeave.py
 ```
 
 Configuration

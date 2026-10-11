@@ -10,7 +10,7 @@ class ActionExecutorApp:
     def __init__(self, root):
         """Initialize the ActionExecutorApp class."""
         self.root = root
-        self.root.title("TaskBot")
+        self.root.title("ClickWeave")
         self.root.geometry("700x500")
         sv_ttk.set_theme("dark")  # Set the theme to dark
 
